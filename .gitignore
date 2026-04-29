@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+*.dmg
+*.exe
+*.zip
+.DS_Store
+.env*
+website/downloads/
